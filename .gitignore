@@ -1,0 +1,7 @@
+# Build artifacts
+NanoKVM.app/
+NanoKVM_bin
+*.o
+
+# macOS
+.DS_Store
